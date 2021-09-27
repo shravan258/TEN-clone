@@ -30,7 +30,7 @@ To install dependencies for this project
 
 ## Get started
 
-To install dependencies for this project
+Ru the application using this command
 
 ```bash
   npm start
