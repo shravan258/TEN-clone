@@ -1,0 +1,62 @@
+.testimonial .slick-arrow.slick-prev,
+.testimonial .slick-arrow.slick-next {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  border-radius: 5px;
+}
+.testimonial .slick-prev::before,
+.testimonial .slick-next::before {
+  display: none;
+}
+
+.testimonial .slick-arrow.slick-next {
+  right: -120px;
+}
+.testimonial .slick-arrow.slick-prev {
+  left: -120px;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  margin-top: 180px;
+  flex-direction: column;
+  background-color: transparent;
+}
+
+.card-content {
+  font-size: 27px;
+  color: white;
+  font-weight: bold;
+  margin-top: -80px;
+}
+
+.card-author {
+  margin-top: 80px;
+  text-align: center;
+  color: white;
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.testimonial {
+  background-image: url('https://static.wixstatic.com/media/11062b_558f00357585424e894fb7c595fc38fd~mv2.jpg/v1/fill/w_1520,h_620,al_c,q_85,usm_0.66_1.00_0.01/11062b_558f00357585424e894fb7c595fc38fd~mv2.webp');
+}
+
+.test-title {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 38px;
+  color: #e81038;
+}
+
+.test-line {
+  margin-top: -20px;
+  width: 153px;
+  background-color: rgb(0, 0, 0);
+  border-top: 3px solid #000000;
+}

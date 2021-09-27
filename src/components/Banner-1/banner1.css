@@ -1,0 +1,59 @@
+.banner1 {
+  display: block;
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.aboutus {
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: rgb(255, 64, 64);
+  height: 420px;
+}
+
+#about-us-name {
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.about-us-image {
+  border: 2.5px solid black;
+  margin-left: 55%;
+  height: 275px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+.about-us-desc {
+  position: absolute;
+  margin-left: 20%;
+  margin-top: -250px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 550;
+  font-size: 45px;
+  text-shadow: -1px 0 rgb(14, 13, 13), 0 1px rgb(231, 231, 231),
+    1px 0 rgb(27, 27, 27), 0 -1px rgb(24, 24, 24);
+}
+
+.learn-more {
+  position: absolute;
+  margin-left: -765px;
+  margin-top: 200px;
+  height: 45px;
+  width: 160px;
+  border: 2px solid black;
+  font-size: larger;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.learn-more:hover {
+  border: 2px solid white;
+  color: white;
+  background-color: black;
+}

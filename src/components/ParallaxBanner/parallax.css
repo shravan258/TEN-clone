@@ -1,0 +1,65 @@
+.parallax-scroll {
+  height: 450px;
+}
+
+.parallax-div {
+  width: 90%;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.subheading {
+  text-align: center;
+  color: #ff5937;
+  font-weight: bold;
+  font-size: 64px;
+  font-family: 'Cookie', cursive;
+  margin-top: -1px;
+  padding-top: 35px;
+  text-shadow: -1px 0 rgb(187, 187, 187), 0 1px rgb(250, 248, 248),
+    1px 0 rgb(207, 207, 207), 0 -1px rgb(24, 24, 24);
+}
+
+.heading {
+  font-family: 'Anton', sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 90px;
+  margin-top: -60px;
+  text-align: center;
+  color: #e8b917;
+  letter-spacing: 0.1rem;
+  text-shadow: -2px 0 rgb(187, 187, 187), 0 2px rgb(202, 201, 201),
+    2px 0 rgb(207, 207, 207), 0 -2px rgb(24, 24, 24);
+}
+
+.parallax-button {
+  margin-left: 41%;
+  margin-top: 5px;
+  padding: 20px 40px 20px 40px;
+  border-radius: 24px;
+  outline: none;
+  border: none;
+  color: white;
+  background: linear-gradient(
+    90deg,
+    rgba(74, 69, 235, 1) 21%,
+    rgba(235, 38, 65, 1) 100%
+  );
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.parallax-button:hover {
+  background: tomato;
+}
+
+.line-button {
+  margin-left: 47%;
+  width: 80px;
+  margin-top: 95px;
+  background-color: white;
+  border-top: 3px solid #ffffff;
+}

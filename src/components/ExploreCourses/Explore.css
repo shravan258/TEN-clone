@@ -1,0 +1,140 @@
+.explore_1_courses {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: rgb(216, 5, 63);
+  display: flex;
+}
+
+.explore_1 {
+  width: 70%;
+}
+
+.explore_1_content {
+  margin-left: 6%;
+  margin-top: 7%;
+  line-height: 1.6;
+  font-family: 'Questrial', sans-serif;
+  font-size: 34px;
+  font-weight: bold;
+  color: white;
+}
+
+.explore_1_button {
+  position: absolute;
+  margin-left: 75%;
+  margin-top: -190px;
+  padding: 15px 45px 15px 45px;
+  font-size: 20px;
+  border-radius: 24px;
+  border: none;
+  background-color: black;
+  color: white;
+}
+
+.explore_1_button:hover {
+  background-color: tomato;
+}
+
+.explore_des_1 {
+  position: absolute;
+  margin-left: 14%;
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 80px;
+}
+
+.explore_des_2 {
+  position: absolute;
+  text-align: left;
+  margin-left: 12%;
+  margin-top: 12%;
+  font-size: 58px;
+  letter-spacing: -0.02rem;
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
+  color: rgb(255, 89, 55);
+}
+
+.explore_2_courses {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 410px;
+  background-color: rgb(216, 5, 63);
+  display: flex;
+}
+
+.explore_2_1 {
+  width: 52%;
+}
+
+.explore_2_content {
+  margin-top: 90px;
+  text-align: center;
+  width: 25%;
+  text-decoration: underline;
+  font-size: 38px;
+  color: white;
+}
+
+.explore_2_2 {
+  width: 23%;
+}
+
+.explore_2_button {
+  position: absolute;
+  margin-left: 56%;
+  margin-top: -140px;
+  padding: 20px 45px 20px 45px;
+  font-size: 20px;
+  border-radius: 30px;
+  border: none;
+  background-color: black;
+  color: white;
+}
+
+.explore_2_button:hover {
+  background-color: tomato;
+}
+
+.explore_3_courses {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 375px;
+  background-color: rgb(216, 5, 63);
+  display: flex;
+}
+
+.explore_3_content {
+  margin-top: 80px;
+  text-align: center;
+  width: 52%;
+  text-decoration: underline;
+  font-size: 38px;
+  color: white;
+}
+
+.explore_3 {
+  width: 48%;
+}
+
+.explore_3_button {
+  position: absolute;
+  margin-top: 16%;
+  margin-left: 16%;
+  padding: 20px 45px 20px 45px;
+  font-size: 20px;
+  border-radius: 30px;
+  border: none;
+  background-color: black;
+  color: white;
+}
+
+.explore_3_button:hover {
+  background-color: tomato;
+}

@@ -1,0 +1,29 @@
+.navbar_list {
+  list-style: none;
+}
+
+li {
+  float: left;
+}
+
+.nav-items {
+  padding-left: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+}
+
+.navbar {
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 410px;
+}
+
+.vertical-line {
+  padding-left: 10px;
+  border-right: 1px solid;
+  color: rgb(189, 185, 185);
+}
+
+.nav-items:hover {
+  color: rgb(255, 81, 0);
+}

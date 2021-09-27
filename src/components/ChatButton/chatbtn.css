@@ -1,0 +1,12 @@
+.chat-button {
+  position: fixed;
+  margin-top: 450px;
+  margin-left: 94%;
+  height: 65px;
+  width: 65px;
+  background-color: rgb(226, 28, 33);
+  border-radius: 8px;
+  color: white;
+  border: none;
+  z-index: 2;
+}

@@ -1,0 +1,65 @@
+.course-benefits {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 0px;
+  background-color: rgb(0, 0, 0);
+  border-left: 20px solid white;
+  border-right: 20px solid white;
+  border-top: 40px solid black;
+  border-bottom: 40px solid black;
+}
+
+.course-benefits-title {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: -28px;
+  font-size: 46px;
+}
+
+.cb-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 90%;
+  margin-left: 40px;
+}
+
+.cb_image {
+  height: 155px;
+  width: 155px;
+  margin-top: 30px;
+  margin-left: 45px;
+}
+
+.cb-title {
+  margin-top: -1px;
+  font-size: 26px;
+  margin-left: 30px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+}
+
+.cb-line {
+  margin-top: -24px;
+  margin-left: 50px;
+  width: 153px;
+  background-color: rgb(0, 0, 0);
+  border-top: 3px solid #000000;
+}
+
+.cb-card {
+  width: 275px;
+  height: 500px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 50px;
+}
+
+.cb-des {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 1.7rem;
+}
