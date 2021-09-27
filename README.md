@@ -16,3 +16,22 @@ TEN-clone link :- https://ten-clone-27fb34.netlify.app/
 ![ss-6](https://user-images.githubusercontent.com/65703105/134879634-a8b6a75a-e10d-4310-8d5b-843c81a6d7f2.PNG)
 ![ss-7](https://user-images.githubusercontent.com/65703105/134879647-2d364c00-7e7a-46a7-abec-35d954a4a132.PNG)
 ![ss-8](https://user-images.githubusercontent.com/65703105/134879655-b990caf1-ff5f-4282-bb91-2743e041d897.PNG)
+
+
+
+## Installing dependencies
+
+To install dependencies for this project
+
+```bash
+  npm install
+```
+
+
+## Get started
+
+To install dependencies for this project
+
+```bash
+  npm start
+```
