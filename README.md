@@ -1,8 +1,8 @@
 # TEN (The entrepreneurship network) clone
 
-This is a frontend clone of THE ENTREPRENEURSHIP NETWORK's website
+## This is a frontend clone of THE ENTREPRENEURSHIP NETWORK's website
 
-TEN-clone link :- https://ten-clone-27fb34.netlify.app/
+## TEN-clone link :- https://ten-clone-27fb34.netlify.app/
 
 ## Screenshots
 
