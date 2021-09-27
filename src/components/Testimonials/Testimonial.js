@@ -2,12 +2,9 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import './testimonial.css';
-import { Avatar } from '@material-ui/core';
-import { flexbox } from '@mui/system';
+
 import { ArrowBackIos, ArrowForwardIos } from '@material-ui/icons';
-import { listcards, testimonial } from '../../data';
-import { testimonials_img } from '../../imageAddr/imgAddr';
-import { useEffect } from 'react';
+import { testimonial } from '../../data';
 
 const PreviousBtn = (props) => {
   const { className, onClick } = props;

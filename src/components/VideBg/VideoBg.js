@@ -11,15 +11,7 @@ const VideoBg = () => {
       </div>
       <div className='video-container'>
         <div className='video-overlay'></div>
-        <video
-          className='videoTag'
-          autoPlay
-          loop
-          muted
-          width='700px'
-          height='400'
-          className='video'
-        >
+        <video autoPlay loop muted width='700px' height='400' className='video'>
           <source src={bgvideo} type='video/mp4' />
         </video>
       </div>

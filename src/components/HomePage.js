@@ -10,7 +10,7 @@ import ChatButton from './ChatButton/ChatButton';
 import ParallaxBanner from './ParallaxBanner/ParallaxBanner';
 import ExploreButtons from './ExploreCourses/ExploreButtons';
 import CourseBenefits from './CourseBenefits/CourseBenefits';
-import Banner_1 from './Banner-1/Banner_1';
+import Banner1 from './Banner-1/Banner_1';
 
 function HomePage() {
   return (
@@ -18,7 +18,7 @@ function HomePage() {
       <Header />
       <Navbar />
       <ChatButton />
-      <Banner_1 />
+      <Banner1 />
       <ParallaxBanner />
       <ExploreButtons />
       <CourseBenefits />

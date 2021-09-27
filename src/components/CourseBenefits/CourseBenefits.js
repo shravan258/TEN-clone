@@ -1,8 +1,5 @@
 import React from 'react';
 import './courseBenefits.css';
-import cb_1 from '../../images/cb-1.PNG';
-import cb_2 from '../../images/cb-2.PNG';
-import cb_3 from '../../images/cb-3.PNG';
 import { listcards } from '../../data';
 
 const CourseBenefits = () => {
